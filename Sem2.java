@@ -3,11 +3,11 @@
 
 // 6 a b
 // ababab
-import java.util.Scanner;
+// import java.util.Scanner;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import javax.swing.plaf.TextUI;
+// import javax.swing.plaf.TextUI;
 
 // public class Sem2 {
 //     public static String builders(String a, String b, int N) {
