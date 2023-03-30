@@ -1,0 +1,26 @@
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 0
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 1
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 2
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 3
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 4
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 5
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 6
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 7
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 8
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: element: 9
+мар. 30, 2023 7:04:55 PM logger1 main
+WARNING: logger off
+мар. 30, 2023 7:04:55 PM logger1 main
+INFO: test
+мар. 30, 2023 7:04:55 PM logger1 main
+WARNING: logsPath

@@ -1,0 +1,8 @@
+мар. 30, 2023 7:05:01 PM logger2 main
+INFO: element: 
+мар. 30, 2023 7:05:01 PM logger2 main
+WARNING: logger off
+мар. 30, 2023 7:05:01 PM logger2 main
+INFO: test
+мар. 30, 2023 7:05:01 PM logger2 main
+WARNING: logsPath
