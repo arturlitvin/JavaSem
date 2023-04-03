@@ -13,6 +13,7 @@ public class Hw1Task4 {
             if (Integer.parseInt(arr[0]) + Integer.parseInt(arr[2]) == Integer.parseInt(arr[4]))
                 message = result;
         }
+        iScanner.close();
         System.out.println(message);
     }
 
